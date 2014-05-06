@@ -1,0 +1,2 @@
+MODULE_SEARCH_PATH=/home/joe/l4re-snapshot-2014022815/obj/fiasco/ia32:/home/joe/l4re-snapshot-2014022815/obj/l4linux/ux:/home/joe/l4re-snapshot-2014022815/files:/home/joe/l4re-snapshot-2014022815/files/cfg:/home/joe/l4re-snapshot-2014022815/src/l4/conf:/home/joe/l4re-snapshot-2014022815/src/l4/conf/examples:/home/joe/l4re-snapshot-2014022815/obj/l4/pkg/so/so-ocl/src/obj-x86_586-l4f:/home/joe/l4re-snapshot-2014022815/src/l4/pkg/so/so-phi/src/obj-x86_586-l4f:/home/joe/l4re-snapshot-2014022815/src/l4/pkg/so
+QEMU_OPTIONS += -serial stdio

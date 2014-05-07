@@ -1,7 +1,7 @@
 PKGDIR		?= ../..
 L4DIR		?= $(PKGDIR)/../..
 
-TARGET		= so-loader
+TARGET		= so-ocl
 SRC_C		= main.c
 REQUIRES_LIBS	= libpthread
 
